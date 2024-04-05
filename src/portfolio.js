@@ -514,26 +514,26 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "Abh_logo.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, Android, JavaScript, front-End Web Development and Opensource Development.",
+      "Connect with me across various social media platforms where I’m readily accessible. Drop me a message and expect a prompt response within a day. Leveraging my expertise in React, Android, JavaScript, and front-end web development, I’m here to assist you with your open-source projects and development queries. Let’s collaborate and create something amazing!🚀",
   },
   blogSection: {
     title: "Requests and Suggestions",
     subtitle:
-      " If you have other request or question,don't hesitate Write it here, we are open for any kind of feedback or suggestions if you have.You can click below and get a contact form, you can drop your love ❤️.",
+      " For any inquiries or suggestions, please don’t hesitate to reach out. Your feedback is invaluable to us. Click below to access the contact form and share your thoughts or love. We’re here to help and always welcome your input with open arms ❤️.",
     link: "https://contact-abhinav.netlify.app/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: " Abhinav lives here, come over for a cup of coffee :",
     subtitle:
-      "House No-93, New Balbhadrapur Benta, Laheriasarai Darbhanga, Bihar 846003",
+      "440, 11th Main Rd, Tigalarpalya, Brookefield, Bengaluru, Karnataka 560066",
     avatar_image_path: "address_image.svg",
     location_map_link:
-      "https://www.google.com/maps/place/New+Balbhadrapur,+Benta,+Laheriasarai,+Darbhanga,+Bihar+846003/@26.1246201,85.8971612,15z/data=!3m1!4b1!4m5!3m4!1s0x39edb8f58b26ba43:0x8a92eb406579c4c!8m2!3d26.124859!4d85.9060162",
+      "https://www.google.com/maps/place/440,+11th+Main+Rd,+Tigalarpalya,+Brookefield,+Bengaluru,+Karnataka+560066/@12.95782,77.7099226,15z/data=!3m1!4b1!4m5!3m4!1s0x3bae123db7b63d65:0xb870394a9191c27e!8m2!3d12.9577993!4d77.7202224?entry=ttu",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8240169006",
+    subtitle: "+91 8674960218",
   },
 };
 export {
