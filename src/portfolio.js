@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Full-Stack Web Developer & DevOps Enthusiast || Versatile Full-Stack Web Developer with DevOps Expertise - 3.5 Years of End-to-End Web Solutions || Proficient in React, Node.js, and Diverse JavaScript Frameworks",
   resumeLink:
-    "https://drive.google.com/file/d/1SacrN0ie5dYaxhXl9jvbFk3RJie-IbRX/view?usp=sharing",
+    "https://drive.google.com/file/d/1f4V7bo4Xxi5Oaa1UUsnMaJTenQZ4N9sx/view",
   portfolio_repository: "https://github.com/AbhinavK98",
   githubProfile: "https://github.com/AbhinavK98",
 };
@@ -85,7 +85,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Front-End Development",
+      title: "FUll Stack Web Developer",
       fileName: "FullStackImg",
       skills: [
         "➡️Worked as Front-end developer on custom MES application which helps user to manage the performance of entire manufacturing operation in real time.",
@@ -111,7 +111,7 @@ const skills = {
         "➡️ Integrated Kafka for real-time data streaming and processing, enabling efficient handling of MES data across distributed systems.",
 
         
-        "➡️ Languages/Tools: Html,Css,BootStrap,Javascript,ES6,React.JS,Redux,My-Sql,VS code,Azure-DevOps.",
+        "➡️ Languages/Tools: HTML,CSS,JavaScript,ES6,React JS,My-SQL,VS code,Jenkins,Kafka,kubernetes, Git, AWS, Node Js, ExpressJs.",
       ],
       softwareSkills: [
         {
